@@ -1,0 +1,2 @@
+when migrate error:
+	https://www.youtube.com/watch?v=ApS0yL_aXp4
